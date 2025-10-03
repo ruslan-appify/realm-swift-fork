@@ -153,12 +153,12 @@ let package = Package(
             targets: ["RealmFork", "RealmSwiftFork"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/realm/realm-core.git", exact: coreVersion)
+        .package(url: "https://github.com/ruslan-appify/realm-core-fork.git", branch: "master")
     ],
     targets: [
       .target(
             name: "RealmFork",
-            dependencies: [.product(name: "RealmCore", package: "realm-core")],
+            dependencies: [.product(name: "RealmCoreFork", package: "realm-core-fork")],
             path: ".",
             exclude: [
                 "CHANGELOG.md",
