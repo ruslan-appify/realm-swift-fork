@@ -15,7 +15,7 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "5D660FCB1BE98C560021E04F"
-                     BuildableName = "RealmSwift.framework"
+                     BuildableName = "RealmSwiftFork.framework"
                      BlueprintName = "RealmSwiftFork"
                      ReferencedContainer = "container:RealmFork.xcodeproj">
                   </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5D660FCB1BE98C560021E04F"
-               BuildableName = "RealmSwift.framework"
+               BuildableName = "RealmSwiftFork.framework"
                BlueprintName = "RealmSwiftFork"
                ReferencedContainer = "container:RealmFork.xcodeproj">
             </BuildableReference>
@@ -49,7 +49,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5D660FCB1BE98C560021E04F"
-            BuildableName = "RealmSwift.framework"
+            BuildableName = "RealmSwiftFork.framework"
             BlueprintName = "RealmSwiftFork"
             ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>
@@ -81,7 +81,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5D660FCB1BE98C560021E04F"
-            BuildableName = "RealmSwift.framework"
+            BuildableName = "RealmSwiftFork.framework"
             BlueprintName = "RealmSwiftFork"
             ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>
@@ -114,7 +114,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5D660FCB1BE98C560021E04F"
-            BuildableName = "RealmSwift.framework"
+            BuildableName = "RealmSwiftFork.framework"
             BlueprintName = "RealmSwiftFork"
             ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>

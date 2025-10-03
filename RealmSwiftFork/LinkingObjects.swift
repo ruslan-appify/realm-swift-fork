@@ -17,7 +17,7 @@
 ////////////////////////////////////////////////////////////////////////////
 
 import Foundation
-import Realm
+import RealmFork
 
 /**
  `LinkingObjects` is an auto-updating container type. It represents zero or more objects that are linked to its owning

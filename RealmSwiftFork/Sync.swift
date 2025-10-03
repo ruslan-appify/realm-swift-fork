@@ -17,8 +17,8 @@
 ////////////////////////////////////////////////////////////////////////////
 
 import Combine
-import Realm
-import Realm.Private
+import RealmFork
+import RealmFork.Private
 
 /**
  An object representing an Atlas App Services user.

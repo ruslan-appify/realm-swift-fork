@@ -17,7 +17,7 @@
 ////////////////////////////////////////////////////////////////////////////
 
 import Foundation
-import Realm
+import RealmFork
 
 /**
  An iterator for a `RealmCollection` instance.

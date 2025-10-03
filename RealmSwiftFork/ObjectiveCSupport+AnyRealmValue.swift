@@ -18,7 +18,7 @@
 
 
 import Foundation
-import Realm
+import RealmFork
 
 public extension ObjectiveCSupport {
 

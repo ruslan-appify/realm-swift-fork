@@ -17,8 +17,8 @@
 ////////////////////////////////////////////////////////////////////////////
 
 import Foundation
-import Realm
-import Realm.Private
+import RealmFork
+import RealmFork.Private
 
 /**
  `AsymmetricObject` is a base class used to define asymmetric Realm objects.

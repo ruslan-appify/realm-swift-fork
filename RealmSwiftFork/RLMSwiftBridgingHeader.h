@@ -16,8 +16,8 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <RealmFork/RLMArray.h>
-#import <RealmFork/RLMObject.h>
+#import <Realm/RLMArray.h>
+#import <Realm/RLMObject.h>
 
 @interface RLMRealm (Swift)
 + (void)resetRealmState;

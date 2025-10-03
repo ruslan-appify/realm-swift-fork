@@ -18,7 +18,7 @@
 
 
 import Foundation
-import Realm
+import RealmFork.Swift
 
 /// A enum for storing and retrieving values associated with an `AnyRealmValue` property.
 public enum AnyRealmValue: Hashable {

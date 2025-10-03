@@ -17,11 +17,11 @@
 ////////////////////////////////////////////////////////////////////////////
 
 import Foundation
-import Realm
+import RealmFork
 import os.log
 
 #if BUILDING_REALM_SWIFT_TESTS
-import RealmSwift
+import RealmForkSwift
 #endif
 
 // MARK: Internal Helpers

@@ -17,8 +17,8 @@
 ////////////////////////////////////////////////////////////////////////////
 
 import Foundation
-import Realm
-import Realm.Private
+import RealmFork
+import RealmFork.Private
 
 // A type which we can get the runtime schema information from
 public protocol _RealmSchemaDiscoverable {

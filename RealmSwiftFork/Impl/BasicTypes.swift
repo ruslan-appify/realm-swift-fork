@@ -16,8 +16,8 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-import Realm
-import Realm.Private
+import RealmFork
+import RealmFork.Private
 
 // MARK: - Property Types
 

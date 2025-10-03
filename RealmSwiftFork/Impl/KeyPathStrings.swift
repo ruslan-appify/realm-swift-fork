@@ -17,7 +17,7 @@
 ////////////////////////////////////////////////////////////////////////////
 
 import Foundation
-import Realm.Private
+import RealmFork.Private
 
 /**
  Gets the components of a given key path as a string.

@@ -17,8 +17,8 @@
 ////////////////////////////////////////////////////////////////////////////
 
 import Foundation
-import Realm
-import Realm.Private
+import RealmFork
+import RealmFork.Private
 
 /// Enum representing an option for `String` queries.
 public struct StringOptions: OptionSet, Sendable {

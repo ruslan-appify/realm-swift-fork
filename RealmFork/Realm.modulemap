@@ -1,4 +1,4 @@
-framework module Realm {
+framework module RealmFork {
     export Foundation
 
     umbrella header "Realm.h"

@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-import Realm.Private
+import RealmFork.Private
 
 /// The Id of the asynchronous transaction.
 public typealias AsyncTransactionId = RLMAsyncTransactionId

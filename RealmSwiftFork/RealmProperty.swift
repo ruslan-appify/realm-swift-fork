@@ -18,7 +18,7 @@
 
 
 import Foundation
-import Realm
+import RealmFork
 
 /**
  A `RealmProperty` instance represents an polymorphic value for supported types.
