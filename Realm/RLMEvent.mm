@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMEvent.h>
+#import <RealmFork/RLMEvent.h>
 
 #import "RLMError_Private.hpp"
 #import "RLMObjectSchema_Private.hpp"

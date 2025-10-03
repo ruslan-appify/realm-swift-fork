@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMMongoCollection.h>
+#import <RealmFork/RLMMongoCollection.h>
 
 RLM_HEADER_AUDIT_BEGIN(nullability)
 

@@ -16,9 +16,9 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMCollection_Private.h>
+#import <RealmFork/RLMCollection_Private.h>
 
-#import <Realm/RLMRealm.h>
+#import <RealmFork/RLMRealm.h>
 
 #import <realm/keys.hpp>
 #import <realm/object-store/collection_notifications.hpp>

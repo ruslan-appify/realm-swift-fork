@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMConstants.h>
+#import <RealmFork/RLMConstants.h>
 
 #import <realm/table_ref.hpp>
 #import <realm/util/optional.hpp>

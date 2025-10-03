@@ -16,9 +16,9 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMMigration.h>
-#import <Realm/RLMObjectBase.h>
-#import <Realm/RLMRealm.h>
+#import <RealmFork/RLMMigration.h>
+#import <RealmFork/RLMObjectBase.h>
+#import <RealmFork/RLMRealm.h>
 
 namespace realm {
     class Schema;

@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMError.h>
+#import <RealmFork/RLMError.h>
 
 #import <realm/exceptions.hpp>
 #import <realm/status_with.hpp>

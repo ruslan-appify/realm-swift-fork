@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMObjectBase.h>
+#import <RealmFork/RLMObjectBase.h>
 
 @class RLMArray<RLMObjectType>;
 

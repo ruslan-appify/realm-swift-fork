@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMConstants.h>
+#import <RealmFork/RLMConstants.h>
 
 RLM_HEADER_AUDIT_BEGIN(nullability)
 /// Conforming protocol for a Geo-shape.

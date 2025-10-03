@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMProviderClient.h>
+#import <RealmFork/RLMProviderClient.h>
 
 @class RLMUserAPIKey, RLMObjectId;
 

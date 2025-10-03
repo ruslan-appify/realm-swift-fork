@@ -17,7 +17,7 @@
 ////////////////////////////////////////////////////////////////////////////
 
 #import "RLMTestCase.h"
-#import <Realm/RLMObjectId.h>
+#import <RealmFork/RLMObjectId.h>
 
 @interface ObjectIdTests : RLMTestCase
 @end

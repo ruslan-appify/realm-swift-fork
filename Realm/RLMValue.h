@@ -16,12 +16,12 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMConstants.h>
-#import <Realm/RLMDecimal128.h>
-#import <Realm/RLMObject.h>
-#import <Realm/RLMObjectBase.h>
-#import <Realm/RLMObjectId.h>
-#import <Realm/RLMProperty.h>
+#import <RealmFork/RLMConstants.h>
+#import <RealmFork/RLMDecimal128.h>
+#import <RealmFork/RLMObject.h>
+#import <RealmFork/RLMObjectBase.h>
+#import <RealmFork/RLMObjectId.h>
+#import <RealmFork/RLMProperty.h>
 
 #pragma mark RLMValue
 

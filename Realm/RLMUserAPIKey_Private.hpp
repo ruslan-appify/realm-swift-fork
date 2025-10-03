@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMUserAPIKey.h>
+#import <RealmFork/RLMUserAPIKey.h>
 
 #import <realm/object-store/sync/app.hpp>
 

@@ -17,7 +17,7 @@
 ////////////////////////////////////////////////////////////////////////////
 
 #import <Foundation/Foundation.h>
-#import <Realm/RLMMongoCollection.h>
+#import <RealmFork/RLMMongoCollection.h>
 #import <XCTest/XCTest.h>
 
 RLM_HEADER_AUDIT_BEGIN(nullability, sendability)

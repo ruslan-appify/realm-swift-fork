@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMConstants.h>
+#import <RealmFork/RLMConstants.h>
 
 #ifdef __cplusplus
 extern "C" {

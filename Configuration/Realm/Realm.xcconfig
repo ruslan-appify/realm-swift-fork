@@ -9,7 +9,7 @@ INFOPLIST_FILE = Realm/Realm-Info.plist;
 MACH_O_TYPE = $(REALM_MACH_O_TYPE);
 MODULEMAP_FILE = $(SRCROOT)/Realm/Realm.modulemap;
 PRODUCT_BUNDLE_IDENTIFIER = io.Realm.${PRODUCT_NAME:rfc1034identifier};
-PRODUCT_NAME = Realm;
+PRODUCT_NAME = RealmFork;
 SKIP_INSTALL = YES;
 
 LD_RUNPATH_SEARCH_PATHS = $(inherited) @executable_path/Frameworks @loader_path/Frameworks;

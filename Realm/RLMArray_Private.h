@@ -16,8 +16,8 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMArray.h>
-#import <Realm/RLMConstants.h>
+#import <RealmFork/RLMArray.h>
+#import <RealmFork/RLMConstants.h>
 
 @class RLMObjectBase, RLMProperty;
 

@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMDictionary.h>
+#import <RealmFork/RLMDictionary.h>
 
 @class RLMObjectBase, RLMProperty;
 

@@ -18,7 +18,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <Realm/RLMSyncManager.h>
+#import <RealmFork/RLMSyncManager.h>
 
 @class RLMApp;
 @class RLMRealm;

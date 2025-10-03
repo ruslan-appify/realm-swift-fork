@@ -18,7 +18,7 @@
 
 #import "RLMWatchTestUtility.h"
 
-#import <Realm/RLMBSON.h>
+#import <RealmFork/RLMBSON.h>
 
 @implementation RLMWatchTestUtility {
     NSUInteger _targetChangeEventCount;

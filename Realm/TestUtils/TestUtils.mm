@@ -19,8 +19,8 @@
 #import "TestUtils.h"
 #import "RLMAssertions.h"
 
-#import <Realm/Realm.h>
-#import <Realm/RLMSchema_Private.h>
+#import <RealmFork/Realm.h>
+#import <RealmFork/RLMSchema_Private.h>
 
 #import "RLMApp_Private.hpp"
 #import "RLMRealmUtil.hpp"

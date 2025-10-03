@@ -17,7 +17,7 @@
 ////////////////////////////////////////////////////////////////////////////
 
 #import "RLMTestCase.h"
-#import <Realm/RLMDecimal128.h>
+#import <RealmFork/RLMDecimal128.h>
 
 @interface Decimal128Tests : RLMTestCase
 @end

@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMUser.h>
+#import <RealmFork/RLMUser.h>
 
 RLM_HEADER_AUDIT_BEGIN(nullability, sendability)
 

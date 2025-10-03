@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMObjectId.h>
+#import <RealmFork/RLMObjectId.h>
 
 namespace realm {
 class ObjectId;

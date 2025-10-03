@@ -17,7 +17,7 @@
 ////////////////////////////////////////////////////////////////////////////
 
 #import "RLMTestCase.h"
-#import <Realm/RLMValue.h>
+#import <RealmFork/RLMValue.h>
 
 @interface RLMValueTests : RLMTestCase
 @end

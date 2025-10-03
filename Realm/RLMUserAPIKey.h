@@ -17,7 +17,7 @@
 ////////////////////////////////////////////////////////////////////////////
 
 #import <Foundation/Foundation.h>
-#import <Realm/RLMObjectId.h>
+#import <RealmFork/RLMObjectId.h>
 
 RLM_HEADER_AUDIT_BEGIN(nullability, sendability)
 

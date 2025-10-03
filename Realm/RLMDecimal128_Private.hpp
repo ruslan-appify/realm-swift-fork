@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMDecimal128.h>
+#import <RealmFork/RLMDecimal128.h>
 
 namespace realm {
 class Decimal128;

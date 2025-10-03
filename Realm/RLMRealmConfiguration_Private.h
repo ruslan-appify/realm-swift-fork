@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMRealmConfiguration.h>
+#import <RealmFork/RLMRealmConfiguration.h>
 
 @class RLMSchema, RLMEventConfiguration;
 

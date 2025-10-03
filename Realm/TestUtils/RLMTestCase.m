@@ -19,9 +19,9 @@
 #import "RLMTestCase.h"
 
 #import "RLMRealmConfiguration_Private.h"
-#import <Realm/RLMRealm_Private.h>
-#import <Realm/RLMSchema_Private.h>
-#import <Realm/RLMRealmConfiguration_Private.h>
+#import <RealmFork/RLMRealm_Private.h>
+#import <RealmFork/RLMSchema_Private.h>
+#import <RealmFork/RLMRealmConfiguration_Private.h>
 
 static NSString *parentProcessBundleIdentifier(void)
 {

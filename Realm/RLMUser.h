@@ -16,10 +16,10 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMConstants.h>
-#import <Realm/RLMCredentials.h>
-#import <Realm/RLMRealmConfiguration.h>
-#import <Realm/RLMSyncConfiguration.h>
+#import <RealmFork/RLMConstants.h>
+#import <RealmFork/RLMCredentials.h>
+#import <RealmFork/RLMRealmConfiguration.h>
+#import <RealmFork/RLMSyncConfiguration.h>
 
 @class RLMUser, RLMSyncSession, RLMRealm, RLMUserIdentity, RLMAPIKeyAuth, RLMMongoClient, RLMMongoDatabase, RLMMongoCollection, RLMUserProfile;
 @protocol RLMBSON;

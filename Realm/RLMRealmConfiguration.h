@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMRealm.h>
+#import <RealmFork/RLMRealm.h>
 
 @class RLMEventConfiguration, RLMSyncConfiguration;
 

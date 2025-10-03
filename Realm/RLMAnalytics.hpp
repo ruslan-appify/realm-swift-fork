@@ -54,7 +54,7 @@
 // - The XCode version.
 // - Some info about the features been used when opening the realm for the first time.
 
-#import <Realm/RLMRealm.h>
+#import <RealmFork/RLMRealm.h>
 #import <Foundation/Foundation.h>
 
 void RLMSendAnalytics(RLMRealmConfiguration *configuration, RLMSchema *schema);

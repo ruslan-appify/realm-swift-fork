@@ -16,8 +16,8 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMLogger.h>
-#import <Realm/RLMConstants.h>
+#import <RealmFork/RLMLogger.h>
+#import <RealmFork/RLMConstants.h>
 
 RLM_HEADER_AUDIT_BEGIN(nullability)
 

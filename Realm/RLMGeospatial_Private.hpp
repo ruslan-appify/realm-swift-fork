@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMGeospatial.h>
+#import <RealmFork/RLMGeospatial.h>
 
 namespace realm {
 class Geospatial;

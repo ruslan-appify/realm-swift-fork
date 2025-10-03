@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMCollection.h>
+#import <RealmFork/RLMCollection.h>
 
 @protocol RLMCollectionPrivate;
 

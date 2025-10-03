@@ -16,8 +16,8 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMConstants.h>
-#import <Realm/RLMSyncSession.h>
+#import <RealmFork/RLMConstants.h>
+#import <RealmFork/RLMSyncSession.h>
 
 RLM_HEADER_AUDIT_BEGIN(nullability, sendability)
 

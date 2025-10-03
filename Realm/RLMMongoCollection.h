@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMNetworkTransport.h>
+#import <RealmFork/RLMNetworkTransport.h>
 
 RLM_HEADER_AUDIT_BEGIN(nullability, sendability)
 @protocol RLMBSON;

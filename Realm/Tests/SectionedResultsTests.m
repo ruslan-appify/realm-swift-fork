@@ -18,7 +18,7 @@
 
 #import "RLMTestCase.h"
 
-#import <Realm/RLMSectionedResults.h>
+#import <RealmFork/RLMSectionedResults.h>
 
 @interface SectionedResultsTests : RLMTestCase
 @end

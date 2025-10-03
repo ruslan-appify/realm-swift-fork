@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMProperty_Private.h>
+#import <RealmFork/RLMProperty_Private.h>
 
 #import <realm/object-store/property.hpp>
 

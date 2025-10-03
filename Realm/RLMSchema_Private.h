@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMSchema.h>
+#import <RealmFork/RLMSchema.h>
 
 RLM_HEADER_AUDIT_BEGIN(nullability)
 

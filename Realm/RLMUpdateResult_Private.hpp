@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMUpdateResult.h>
+#import <RealmFork/RLMUpdateResult.h>
 
 #import <realm/object-store/sync/mongo_collection.hpp>
 

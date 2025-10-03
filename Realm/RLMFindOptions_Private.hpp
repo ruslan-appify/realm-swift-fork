@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMFindOptions.h>
+#import <RealmFork/RLMFindOptions.h>
 
 #import <realm/object-store/sync/mongo_collection.hpp>
 

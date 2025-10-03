@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMProperty.h>
+#import <RealmFork/RLMProperty.h>
 
 #import <objc/runtime.h>
 

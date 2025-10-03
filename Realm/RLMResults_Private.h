@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMResults.h>
+#import <RealmFork/RLMResults.h>
 
 #import "RLMRealm_Private.h"
 

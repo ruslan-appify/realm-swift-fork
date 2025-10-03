@@ -16,8 +16,8 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMObjectId.h>
-#import <Realm/RLMDecimal128.h>
+#import <RealmFork/RLMObjectId.h>
+#import <RealmFork/RLMDecimal128.h>
 
 #pragma mark RLMBSONType
 

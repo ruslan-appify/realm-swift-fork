@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMBSON.h>
+#import <RealmFork/RLMBSON.h>
 #import <realm/util/optional.hpp>
 
 namespace realm::bson {

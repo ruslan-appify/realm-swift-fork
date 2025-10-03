@@ -17,7 +17,7 @@
 ////////////////////////////////////////////////////////////////////////////
 
 #import "RLMTestObjects.h"
-#import <Realm/RLMObject_Private.h>
+#import <RealmFork/RLMObject_Private.h>
 
 #pragma mark - Abstract Objects
 #pragma mark -

@@ -79,6 +79,7 @@ OTHER_LDFLAGS = $(REALM_LD_CLASSIC);
 
 APPLICATION_EXTENSION_API_ONLY = YES;
 REALM_MACH_O_TYPE = mh_dylib;
+PRODUCT_NAME = RealmFork;
 SUPPORTED_PLATFORMS = macosx iphoneos iphonesimulator watchos watchsimulator appletvos appletvsimulator xros xrsimulator;
 SUPPORTS_MACCATALYST = YES;
 SWIFT_VERSION = 5.7;

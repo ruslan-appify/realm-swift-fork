@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMSyncManager.h>
+#import <RealmFork/RLMSyncManager.h>
 
 #import "RLMNetworkTransport.h"
 #import <realm/object-store/sync/sync_manager.hpp>

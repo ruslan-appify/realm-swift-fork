@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/Realm.h>
+#import <RealmFork/Realm.h>
 #import "RLMServerTestObjects.h"
 
 #pragma mark Dog

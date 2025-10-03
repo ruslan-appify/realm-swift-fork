@@ -16,9 +16,9 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMObjectBase_Dynamic.h>
+#import <RealmFork/RLMObjectBase_Dynamic.h>
 
-#import <Realm/RLMRealm.h>
+#import <RealmFork/RLMRealm.h>
 
 RLM_HEADER_AUDIT_BEGIN(nullability, sendability)
 

@@ -16,9 +16,9 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMConstants.h>
-#import <Realm/RLMSwiftValueStorage.h>
-#import <Realm/RLMValue.h>
+#import <RealmFork/RLMConstants.h>
+#import <RealmFork/RLMSwiftValueStorage.h>
+#import <RealmFork/RLMValue.h>
 
 #import <realm/array.hpp>
 #import <realm/binary_data.hpp>

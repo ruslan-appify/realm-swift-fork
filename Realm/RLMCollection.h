@@ -16,8 +16,8 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/RLMConstants.h>
-#import <Realm/RLMThreadSafeReference.h>
+#import <RealmFork/RLMConstants.h>
+#import <RealmFork/RLMThreadSafeReference.h>
 
 RLM_HEADER_AUDIT_BEGIN(nullability, sendability)
 

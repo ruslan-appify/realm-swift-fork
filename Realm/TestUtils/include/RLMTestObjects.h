@@ -16,7 +16,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#import <Realm/Realm.h>
+#import <RealmFork/Realm.h>
 
 #define RLM_GENERIC_ARRAY(CLASS) RLMArray<CLASS *><CLASS>
 #define RLM_GENERIC_SET(CLASS) RLMSet<CLASS *><CLASS>
