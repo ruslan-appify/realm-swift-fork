@@ -16,7 +16,7 @@
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "5D660FCB1BE98C560021E04F"
                      BuildableName = "RealmSwift.framework"
-                     BlueprintName = "RealmSwift"
+                     BlueprintName = "RealmSwiftFork"
                      ReferencedContainer = "container:Realm.xcodeproj">
                   </BuildableReference>
                </EnvironmentBuildable>
@@ -34,7 +34,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5D660FCB1BE98C560021E04F"
                BuildableName = "RealmSwift.framework"
-               BlueprintName = "RealmSwift"
+               BlueprintName = "RealmSwiftFork"
                ReferencedContainer = "container:Realm.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -50,7 +50,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5D660FCB1BE98C560021E04F"
             BuildableName = "RealmSwift.framework"
-            BlueprintName = "RealmSwift"
+            BlueprintName = "RealmSwiftFork"
             ReferencedContainer = "container:Realm.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -82,7 +82,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5D660FCB1BE98C560021E04F"
             BuildableName = "RealmSwift.framework"
-            BlueprintName = "RealmSwift"
+            BlueprintName = "RealmSwiftFork"
             ReferencedContainer = "container:Realm.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -115,7 +115,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5D660FCB1BE98C560021E04F"
             BuildableName = "RealmSwift.framework"
-            BlueprintName = "RealmSwift"
+            BlueprintName = "RealmSwiftFork"
             ReferencedContainer = "container:Realm.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

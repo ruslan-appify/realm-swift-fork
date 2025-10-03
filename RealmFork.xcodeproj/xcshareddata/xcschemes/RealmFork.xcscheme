@@ -16,8 +16,8 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "5D659E7D1BE04556006515A0"
-                     BuildableName = "Realm.framework"
-                     BlueprintName = "Realm"
+                     BuildableName = "RealmFork.framework"
+                     BlueprintName = "RealmFork"
                      ReferencedContainer = "container:Realm.xcodeproj">
                   </BuildableReference>
                </EnvironmentBuildable>
@@ -34,8 +34,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5D659E7D1BE04556006515A0"
-               BuildableName = "Realm.framework"
-               BlueprintName = "Realm"
+               BuildableName = "RealmFork.framework"
+               BlueprintName = "RealmFork"
                ReferencedContainer = "container:Realm.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -64,8 +64,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5D659E7D1BE04556006515A0"
-            BuildableName = "Realm.framework"
-            BlueprintName = "Realm"
+            BuildableName = "RealmFork.framework"
+            BlueprintName = "RealmFork"
             ReferencedContainer = "container:Realm.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -101,8 +101,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5D659E7D1BE04556006515A0"
-            BuildableName = "Realm.framework"
-            BlueprintName = "Realm"
+            BuildableName = "RealmFork.framework"
+            BlueprintName = "RealmFork"
             ReferencedContainer = "container:Realm.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -134,8 +134,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5D659E7D1BE04556006515A0"
-            BuildableName = "Realm.framework"
-            BlueprintName = "Realm"
+            BuildableName = "RealmFork.framework"
+            BlueprintName = "RealmFork"
             ReferencedContainer = "container:Realm.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
