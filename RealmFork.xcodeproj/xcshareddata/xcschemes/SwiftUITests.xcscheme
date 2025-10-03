@@ -17,7 +17,7 @@
                      BlueprintIdentifier = "53124AD325B71AF700771CE4"
                      BuildableName = "SwiftUITests.xctest"
                      BlueprintName = "SwiftUITests"
-                     ReferencedContainer = "container:Realm.xcodeproj">
+                     ReferencedContainer = "container:RealmFork.xcodeproj">
                   </BuildableReference>
                </EnvironmentBuildable>
             </ActionContent>
@@ -37,7 +37,7 @@
                BlueprintIdentifier = "53124AD325B71AF700771CE4"
                BuildableName = "SwiftUITests.xctest"
                BlueprintName = "SwiftUITests"
-               ReferencedContainer = "container:Realm.xcodeproj">
+               ReferencedContainer = "container:RealmFork.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -59,7 +59,7 @@
             BlueprintIdentifier = "53124AB725B71AF600771CE4"
             BuildableName = "SwiftUITestHost.app"
             BlueprintName = "SwiftUITestHost"
-            ReferencedContainer = "container:Realm.xcodeproj">
+            ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <EnvironmentVariables>
@@ -87,7 +87,7 @@
             BlueprintIdentifier = "53124AB725B71AF600771CE4"
             BuildableName = "SwiftUITestHost.app"
             BlueprintName = "SwiftUITestHost"
-            ReferencedContainer = "container:Realm.xcodeproj">
+            ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

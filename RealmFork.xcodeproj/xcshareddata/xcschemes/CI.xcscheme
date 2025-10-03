@@ -17,7 +17,7 @@
                BlueprintIdentifier = "ACB76B772AA9D9A600C59983"
                BuildableName = "CI"
                BlueprintName = "CI"
-               ReferencedContainer = "container:Realm.xcodeproj">
+               ReferencedContainer = "container:RealmFork.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -64,7 +64,7 @@
             BlueprintIdentifier = "ACB76B772AA9D9A600C59983"
             BuildableName = "CI"
             BlueprintName = "CI"
-            ReferencedContainer = "container:Realm.xcodeproj">
+            ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

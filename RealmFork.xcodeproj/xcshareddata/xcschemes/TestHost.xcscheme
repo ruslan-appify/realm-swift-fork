@@ -17,7 +17,7 @@
                BlueprintIdentifier = "3F1A5E711992EB7400F45F4C"
                BuildableName = "TestHost.app"
                BlueprintName = "TestHost"
-               ReferencedContainer = "container:Realm.xcodeproj">
+               ReferencedContainer = "container:RealmFork.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,7 +33,7 @@
             BlueprintIdentifier = "3F1A5E711992EB7400F45F4C"
             BuildableName = "TestHost.app"
             BlueprintName = "TestHost"
-            ReferencedContainer = "container:Realm.xcodeproj">
+            ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -44,7 +44,7 @@
                BlueprintIdentifier = "E8D89BA21955FC6D00CF2B9A"
                BuildableName = "Tests.xctest"
                BlueprintName = "Tests"
-               ReferencedContainer = "container:Realm.xcodeproj">
+               ReferencedContainer = "container:RealmFork.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -52,9 +52,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5D660FD71BE98C7C0021E04F"
-               BuildableName = "RealmSwift Tests.xctest"
-               BlueprintName = "RealmSwift Tests"
-               ReferencedContainer = "container:Realm.xcodeproj">
+               BuildableName = "RealmForkSwift Tests.xctest"
+               BlueprintName = "RealmForkSwift Tests"
+               ReferencedContainer = "container:RealmFork.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -76,7 +76,7 @@
             BlueprintIdentifier = "3F1A5E711992EB7400F45F4C"
             BuildableName = "TestHost.app"
             BlueprintName = "TestHost"
-            ReferencedContainer = "container:Realm.xcodeproj">
+            ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -93,7 +93,7 @@
             BlueprintIdentifier = "3F1A5E711992EB7400F45F4C"
             BuildableName = "TestHost.app"
             BlueprintName = "TestHost"
-            ReferencedContainer = "container:Realm.xcodeproj">
+            ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

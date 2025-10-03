@@ -17,7 +17,7 @@
                      BlueprintIdentifier = "AC88475926888C6300DF4A65"
                      BuildableName = "SwiftUISyncTests.xctest"
                      BlueprintName = "SwiftUISyncTests"
-                     ReferencedContainer = "container:Realm.xcodeproj">
+                     ReferencedContainer = "container:RealmFork.xcodeproj">
                   </BuildableReference>
                </EnvironmentBuildable>
             </ActionContent>
@@ -37,7 +37,7 @@
                BlueprintIdentifier = "AC88475926888C6300DF4A65"
                BuildableName = "SwiftUISyncTests.xctest"
                BlueprintName = "SwiftUISyncTests"
-               ReferencedContainer = "container:Realm.xcodeproj">
+               ReferencedContainer = "container:RealmFork.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>

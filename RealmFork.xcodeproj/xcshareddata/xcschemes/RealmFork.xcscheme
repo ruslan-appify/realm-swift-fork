@@ -18,7 +18,7 @@
                      BlueprintIdentifier = "5D659E7D1BE04556006515A0"
                      BuildableName = "RealmFork.framework"
                      BlueprintName = "RealmFork"
-                     ReferencedContainer = "container:Realm.xcodeproj">
+                     ReferencedContainer = "container:RealmFork.xcodeproj">
                   </BuildableReference>
                </EnvironmentBuildable>
             </ActionContent>
@@ -36,7 +36,7 @@
                BlueprintIdentifier = "5D659E7D1BE04556006515A0"
                BuildableName = "RealmFork.framework"
                BlueprintName = "RealmFork"
-               ReferencedContainer = "container:Realm.xcodeproj">
+               ReferencedContainer = "container:RealmFork.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -50,7 +50,7 @@
                BlueprintIdentifier = "E8D89BA21955FC6D00CF2B9A"
                BuildableName = "Tests.xctest"
                BlueprintName = "Tests"
-               ReferencedContainer = "container:Realm.xcodeproj">
+               ReferencedContainer = "container:RealmFork.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -66,7 +66,7 @@
             BlueprintIdentifier = "5D659E7D1BE04556006515A0"
             BuildableName = "RealmFork.framework"
             BlueprintName = "RealmFork"
-            ReferencedContainer = "container:Realm.xcodeproj">
+            ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -77,7 +77,7 @@
                BlueprintIdentifier = "E8D89BA21955FC6D00CF2B9A"
                BuildableName = "Tests.xctest"
                BlueprintName = "Tests"
-               ReferencedContainer = "container:Realm.xcodeproj">
+               ReferencedContainer = "container:RealmFork.xcodeproj">
             </BuildableReference>
             <SkippedTests>
                <Test
@@ -103,7 +103,7 @@
             BlueprintIdentifier = "5D659E7D1BE04556006515A0"
             BuildableName = "RealmFork.framework"
             BlueprintName = "RealmFork"
-            ReferencedContainer = "container:Realm.xcodeproj">
+            ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <EnvironmentVariables>
@@ -136,7 +136,7 @@
             BlueprintIdentifier = "5D659E7D1BE04556006515A0"
             BuildableName = "RealmFork.framework"
             BlueprintName = "RealmFork"
-            ReferencedContainer = "container:Realm.xcodeproj">
+            ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

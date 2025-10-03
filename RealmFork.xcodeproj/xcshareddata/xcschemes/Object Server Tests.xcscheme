@@ -17,7 +17,7 @@
                      BlueprintIdentifier = "E8267FB11D90B79000E001C7"
                      BuildableName = "ObjectServerTests.xctest"
                      BlueprintName = "ObjectServerTests"
-                     ReferencedContainer = "container:Realm.xcodeproj">
+                     ReferencedContainer = "container:RealmFork.xcodeproj">
                   </BuildableReference>
                </EnvironmentBuildable>
             </ActionContent>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "E8267FB11D90B79000E001C7"
                BuildableName = "ObjectServerTests.xctest"
                BlueprintName = "ObjectServerTests"
-               ReferencedContainer = "container:Realm.xcodeproj">
+               ReferencedContainer = "container:RealmFork.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -49,7 +49,7 @@
                BlueprintIdentifier = "3F1A5E711992EB7400F45F4C"
                BuildableName = "TestHost.app"
                BlueprintName = "TestHost"
-               ReferencedContainer = "container:Realm.xcodeproj">
+               ReferencedContainer = "container:RealmFork.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -74,7 +74,7 @@
                BlueprintIdentifier = "E8267FB11D90B79000E001C7"
                BuildableName = "ObjectServerTests.xctest"
                BlueprintName = "ObjectServerTests"
-               ReferencedContainer = "container:Realm.xcodeproj">
+               ReferencedContainer = "container:RealmFork.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -95,7 +95,7 @@
             BlueprintIdentifier = "E8267FB11D90B79000E001C7"
             BuildableName = "ObjectServerTests.xctest"
             BlueprintName = "ObjectServerTests"
-            ReferencedContainer = "container:Realm.xcodeproj">
+            ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <EnvironmentVariables>
@@ -128,7 +128,7 @@
             BlueprintIdentifier = "E8267FB11D90B79000E001C7"
             BuildableName = "ObjectServerTests.xctest"
             BlueprintName = "ObjectServerTests"
-            ReferencedContainer = "container:Realm.xcodeproj">
+            ReferencedContainer = "container:RealmFork.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
