@@ -32,7 +32,7 @@ let testCxxSettings: [CXXSetting] = cxxSettings + [
     // Command-line `swift build` resolves header search paths
     // relative to the package root, while Xcode resolves them
     // relative to the target root, so we need both.
-    .headerSearchPath("Realm"),
+    .headerSearchPath("RealmFork"),
     .headerSearchPath(".."),
 ]
 
@@ -169,13 +169,13 @@ let package = Package(
                 "Package.swift",
                 "README.md",
                 "Realm.podspec",
-                "Realm.xcodeproj",
+                "RealmFork.xcodeproj",
                 "RealmFork/ObjectServerTests",
                 "RealmFork/Realm-Info.plist",
                 "RealmFork/Swift/RLMSupport.swift",
                 "RealmFork/TestUtils",
                 "RealmFork/Tests",
-                "RealmSwift",
+                "RealmSwiftFork",
                 "RealmSwift.podspec",
                 "SUPPORT.md",
                 "build.sh",
@@ -271,7 +271,7 @@ let package = Package(
         .target(
             name: "RealmSwiftFork",
             dependencies: ["RealmFork"],
-            path: "RealmSwift",
+            path: "RealmSwiftFork",
             exclude: [
                 "Nonsync.swift",
                 "RealmSwift-Info.plist",
@@ -290,7 +290,7 @@ let package = Package(
         .target(
             name: "RealmSwiftTestSupportFork",
             dependencies: ["RealmSwiftFork", "RealmTestSupportFork"],
-            path: "RealmSwift/Tests",
+            path: "RealmSwiftFork/Tests",
             sources: ["TestUtils.swift"]
         ),
         .testTarget(
@@ -326,7 +326,7 @@ let package = Package(
         .testTarget(
             name: "RealmSwiftTestsFork",
             dependencies: ["RealmSwiftFork", "RealmTestSupportFork", "RealmSwiftTestSupportFork"],
-            path: "RealmSwift/Tests",
+            path: "RealmSwiftFork/Tests",
             exclude: [
                 "RealmSwiftTests-Info.plist",
                 "QueryTests.swift.gyb",

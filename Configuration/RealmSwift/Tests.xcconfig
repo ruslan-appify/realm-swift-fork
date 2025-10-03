@@ -1,8 +1,8 @@
 #include "../TestBase.xcconfig"
 
-INFOPLIST_FILE = RealmSwift/Tests/RealmSwiftTests-Info.plist;
+INFOPLIST_FILE = RealmSwiftFork/Tests/RealmSwiftTests-Info.plist;
 OTHER_LDFLAGS = -ObjC;
-SWIFT_OBJC_BRIDGING_HEADER = RealmSwift/Tests/RealmSwiftTests-BridgingHeader.h
+SWIFT_OBJC_BRIDGING_HEADER = RealmSwiftFork/Tests/RealmSwiftTests-BridgingHeader.h
 SWIFT_OPTIMIZATION_LEVEL = -Onone;
 SWIFT_STRICT_CONCURRENCY = targeted;
 
